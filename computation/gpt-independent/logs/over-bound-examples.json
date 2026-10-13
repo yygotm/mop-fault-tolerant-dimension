@@ -1,0 +1,155 @@
+[
+  {
+    "n": 5,
+    "beta": 2,
+    "beta_prime": 4,
+    "in_open_problem_4_domain": false,
+    "degrees": [
+      2,
+      3,
+      3,
+      2,
+      4
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ]
+    ],
+    "witness_beta": 3,
+    "witness_beta_prime": 15
+  },
+  {
+    "n": 6,
+    "beta": 2,
+    "beta_prime": 4,
+    "in_open_problem_4_domain": false,
+    "degrees": [
+      2,
+      3,
+      3,
+      3,
+      2,
+      5
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "witness_beta": 17,
+    "witness_beta_prime": 15
+  },
+  {
+    "n": 6,
+    "beta": 2,
+    "beta_prime": 4,
+    "in_open_problem_4_domain": false,
+    "degrees": [
+      2,
+      3,
+      4,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "witness_beta": 3,
+    "witness_beta_prime": 23
+  }
+]

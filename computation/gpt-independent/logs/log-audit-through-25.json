@@ -1,0 +1,54 @@
+{
+  "orders": [
+    {
+      "n": 20,
+      "parts": 16,
+      "graphs": 11944614,
+      "ear_labeled": 129644790,
+      "ordered_partition_logs_sha256": "aa577c00a76b469e68edff1984fccd1439efedd9cc21270ff1e28995f613c818",
+      "status": "PASS"
+    },
+    {
+      "n": 21,
+      "parts": 256,
+      "graphs": 42080170,
+      "ear_labeled": 477638700,
+      "ordered_partition_logs_sha256": "6eab57c8fe316ed6ea871e80d7509b91fae1c65550a55f1931c38a008294ecb3",
+      "status": "PASS"
+    },
+    {
+      "n": 22,
+      "parts": 1024,
+      "graphs": 149197152,
+      "ear_labeled": 1767263190,
+      "ordered_partition_logs_sha256": "67b77217d12237bb68e90abe0ef55679d2fa6eecc17f7caff2df21a3263dc27e",
+      "status": "PASS"
+    },
+    {
+      "n": 23,
+      "parts": 2048,
+      "graphs": 531883768,
+      "ear_labeled": 6564120420,
+      "ordered_partition_logs_sha256": "5eb1ffcf85919c59cfa0eccc781173561ea257c47aa6d88231aa585b2741496c",
+      "status": "PASS"
+    },
+    {
+      "n": 24,
+      "parts": 4096,
+      "graphs": 1905930975,
+      "ear_labeled": 24466267020,
+      "ordered_partition_logs_sha256": "fe1fe28096e5f690559d4f921561b0623f65e2c046e8d852ca8156cce63c61ec",
+      "status": "PASS"
+    },
+    {
+      "n": 25,
+      "parts": 8192,
+      "graphs": 6861221666,
+      "ear_labeled": 91482563640,
+      "ordered_partition_logs_sha256": "a4eb1fbdd4d149fc5229675e324d0dea479abf14ccff01561d2bf2881e188f8b",
+      "status": "PASS"
+    }
+  ],
+  "seconds": 35.568867348000005,
+  "status": "PASS"
+}

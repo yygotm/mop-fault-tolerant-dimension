@@ -1,0 +1,76 @@
+{
+  "checks": [
+    {
+      "n": 3,
+      "labeled": 1,
+      "graphs": 1,
+      "all_subsets_per_graph": 8,
+      "status": "PASS"
+    },
+    {
+      "n": 4,
+      "labeled": 2,
+      "graphs": 1,
+      "all_subsets_per_graph": 16,
+      "status": "PASS"
+    },
+    {
+      "n": 5,
+      "labeled": 5,
+      "graphs": 1,
+      "all_subsets_per_graph": 32,
+      "status": "PASS"
+    },
+    {
+      "n": 6,
+      "labeled": 14,
+      "graphs": 3,
+      "all_subsets_per_graph": 64,
+      "status": "PASS"
+    },
+    {
+      "n": 7,
+      "labeled": 42,
+      "graphs": 4,
+      "all_subsets_per_graph": 128,
+      "status": "PASS"
+    },
+    {
+      "n": 8,
+      "labeled": 132,
+      "graphs": 12,
+      "all_subsets_per_graph": 256,
+      "status": "PASS"
+    },
+    {
+      "n": 9,
+      "labeled": 429,
+      "graphs": 27,
+      "all_subsets_per_graph": 512,
+      "status": "PASS"
+    },
+    {
+      "n": 10,
+      "labeled": 1430,
+      "graphs": 82,
+      "all_subsets_per_graph": 1024,
+      "status": "PASS"
+    },
+    {
+      "n": 11,
+      "labeled": 4862,
+      "graphs": 228,
+      "all_subsets_per_graph": 2048,
+      "status": "PASS"
+    },
+    {
+      "n": 12,
+      "labeled": 16796,
+      "graphs": 733,
+      "all_subsets_per_graph": 4096,
+      "status": "PASS"
+    }
+  ],
+  "seconds": 36.00537208399999,
+  "status": "PASS"
+}

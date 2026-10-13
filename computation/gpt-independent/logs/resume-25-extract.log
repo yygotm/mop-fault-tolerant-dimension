@@ -1,0 +1,5 @@
+The first order-25 attempt stopped with (last line of its traceback):
+OSError: [Errno 61] No data available
+The restarted runner log begins with (second line; the first is a start-time record):
+RESUME_VALIDATED_PARTS 512
+The final completion record of the restarted run is in run-25.log.

@@ -1,0 +1,11 @@
+{
+  "source_sha256": {
+    "src/main.rs": "848594f4fce5abf5f75ceffbd03ab402a5501a1632de8a0ee37697f48315589b",
+    "Cargo.toml": "c1180ebeb246d41cd27dfea0a05a297efa18f4a69bae95a6069abdfe1807516b",
+    "Cargo.lock": "962127120739cbf21c043a22104641953b1f6ff56cc8be9b9028df4de4663417",
+    "reference.py": "3078cccdbc1864fdbe6821faf8934f59b0319481b9f7119e2ed69551a0147f42",
+    "parallel.py": "398f2747bb3b79e4c0b311541e99cdbd86d42d58c644b25352c513c6d368fa3e",
+    "audit_logs.py": "4d556c4467c2280eb944eb6a7a22986734a27a020b5c2481be75a6024ac3e5ec"
+  },
+  "recorded_search_binary_sha256": "da884a5d6d7f0f49a1993e2b570437779b29b7129e339ed8f084acc89a036a87"
+}

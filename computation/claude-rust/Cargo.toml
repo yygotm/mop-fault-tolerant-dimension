@@ -1,0 +1,10 @@
+[package]
+name = "mop_ftmd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[profile.release]
+overflow-checks = true
+opt-level = 3

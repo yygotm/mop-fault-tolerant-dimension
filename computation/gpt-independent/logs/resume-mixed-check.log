@@ -1,0 +1,3 @@
+RESUME_VALIDATED_PARTS 30
+PARTITION_GRAPH_BY_GRAPH_PASS
+COMPLETE {"n": 12, "count": 733, "ear_labeled": 4862, "max_beta_prime": 6, "bound": 6, "over_bound": 0, "histogram": [{"beta": 2, "beta_prime": 4, "count": 212}, {"beta": 2, "beta_prime": 5, "count": 7}, {"beta": 3, "beta_prime": 4, "count": 218}, {"beta": 3, "beta_prime": 5, "count": 259}, {"beta": 3, "beta_prime": 6, "count": 8}, {"beta": 4, "beta_prime": 5, "count": 18}, {"beta": 4, "beta_prime": 6, "count": 11}], "seconds": 1.1024500780004018, "status": "COMPLETE", "parts": 31}

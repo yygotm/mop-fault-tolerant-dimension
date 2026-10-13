@@ -1,0 +1,6 @@
+COMPLETE n=10 labeled=1430 count=82 seconds=0.002221191
+HIST 2 4 46
+HIST 3 4 26
+HIST 3 5 9
+HIST 4 5 1
+END

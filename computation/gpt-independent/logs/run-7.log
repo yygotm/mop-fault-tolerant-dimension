@@ -1,0 +1,4 @@
+COMPLETE n=7 labeled=42 count=4 seconds=0.000423497
+HIST 2 4 3
+HIST 3 4 1
+END

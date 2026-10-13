@@ -1,0 +1,4 @@
+COMPLETE n=8 labeled=132 count=12 seconds=0.000499796
+HIST 2 4 10
+HIST 3 4 2
+END
