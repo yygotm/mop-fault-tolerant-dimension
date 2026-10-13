@@ -11,8 +11,8 @@ beta'(G) <= ceil(n/2)?
 
 Here a set W of vertices is a *fault-tolerant resolving set* if every two distinct vertices
 u, v are distinguished by at least two vertices w in W, that is, d(w,u) != d(w,v); beta'(G) is
-the minimum size of such a set. The paper proves beta'(G) <= ceil(2n/3) for n >= 5 and shows
-that fans attain ceil(n/2).
+the minimum size of such a set. The paper proves beta'(G) <= ceil(2n/3) for n >= 5 and notes,
+citing earlier work [7, 11 in the paper], that fans attain ceil(n/2) for n >= 7.
 
 ## Result
 
